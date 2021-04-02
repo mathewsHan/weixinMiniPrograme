@@ -1,14 +1,13 @@
 # 微信小程序商城
 
-微信小程序商城，微信小程序微店，长期维护版本，欢迎大家踊跃提交贡献代码；
+# 微信小程序商城 Sass服务 ,联系作者 619942377@qq.com  @MathewHan
 
-使用说明和常见问题，可参阅下面的说明，如还有疑问，可访问工厂官网 [https://www.it120.cc/](https://www.it120.cc/) 寻求帮助！
+
+微信小程序商城，微信小程序微店，长期维护版本，欢迎大家踊跃提交贡献代码；
 
 新增直播带货支持，具体详见使用说明
 
 # 今日头条/抖音小程序版本
-
-本项目的今日头条/抖音小程序版本，请移步至下面的地址：
 
 [https://github.com/EastWorld/tt-app-mall](https://github.com/EastWorld/tt-app-mall)
 
@@ -30,8 +29,6 @@
 ## 联系作者
 
 | 微信好友 | 支付宝好友 |
-| :------: | :------: |
-| <img src="https://cdn.it120.cc/apifactory/2019/07/03/a86f7e46-1dbc-42fe-9495-65403659671e.jpeg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/07/03/fda59aeb-4943-4379-93bb-92856740bd6a.jpeg" width="200px"> |
 
 ## 接口 & 后台声明
 
